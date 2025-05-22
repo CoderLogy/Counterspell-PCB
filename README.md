@@ -11,6 +11,16 @@
 
     Counterspell logo on the front – mysterious and magical
 
+## Schema
+<img width="455" alt="counterspellpcbschema" src="https://github.com/user-attachments/assets/7ea49807-a44a-44d1-9b12-f7ebc6c29561" />
+
+## PCB Front
+<img width="505" alt="counterspellpcbfront" src="https://github.com/user-attachments/assets/d2c7db3c-0f9b-40ab-8bc3-62424ffa8169" />
+
+## PCB Back
+<img width="437" alt="counterspellpcbback" src="https://github.com/user-attachments/assets/51fcf9af-29df-408b-9b38-19407a4fabf9" />
+
+
 🔧 How to build
 
 Just order the PCB & components, open the KiCAD file, and solder it up! Perfect for a quick weekend project or a beginner's intro to electronics.
