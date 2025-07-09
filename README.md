@@ -13,6 +13,7 @@
 
 ## Schema
 <img width="437" alt="counterspellpcbschema" src="https://github.com/user-attachments/assets/d947eb73-54b1-4ea7-914e-f482f7065c7" />
+![pcbwayschema](https://github.com/user-attachments/assets/a127f793-0b30-4050-8b70-d19e01d328cb)
 
 
 ## PCB Front
