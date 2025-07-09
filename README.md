@@ -38,4 +38,5 @@ Just order the PCB & components, open the KiCAD file, and solder it up! Perfect 
     3× LEDs
 
 Made as a part of http://solder.hackclub.com/
+
 Thanks a lot https://www.pcbway.com/ for supporting this project !
